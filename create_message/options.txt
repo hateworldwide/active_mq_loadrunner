@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\User\Desktop\New Folder\WebServices1
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\user\desktop\new folder\webservices1\\logfile.log
+c:\users\user\desktop\new folder\webservices1\\combined_WebServices1.c
+c:\users\user\desktop\new folder\webservices1\\pre_cci.c
